@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_host_navigation"
+    app:startDestination="@id/android_5_Fragment">
+
+    <fragment
+        android:id="@+id/android_5_Fragment"
+        android:name="com.example.phones.fragments.android_5_Fragment"
+        android:label="fragment_android_5_"
+        tools:layout="@layout/fragment_android_5_" >
+        <action
+            android:id="@+id/action_android_5_Fragment_to_android_8_Fragment"
+            app:destination="@id/android_8_Fragment" />
+        <action
+            android:id="@+id/action_android_5_Fragment_to_android_6_Fragment"
+            app:destination="@id/android_6_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/android_8_Fragment"
+        android:name="com.example.phones.fragments.android_8_Fragment"
+        android:label="fragment_android_8_"
+        tools:layout="@layout/fragment_android_8_" >
+        <action
+            android:id="@+id/action_android_8_Fragment_to_android_9_Fragment"
+            app:destination="@id/android_9_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/android_9_Fragment"
+        android:name="com.example.phones.fragments.android_9_Fragment"
+        android:label="fragment_android_9_"
+        tools:layout="@layout/fragment_android_9_" >
+        <action
+            android:id="@+id/action_android_9_Fragment_to_android_10_Fragment"
+            app:destination="@id/android_10_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/android_10_Fragment"
+        android:name="com.example.phones.fragments.android_10_Fragment"
+        android:label="fragment_android_10_"
+        tools:layout="@layout/fragment_android_10_" />
+    <fragment
+        android:id="@+id/android_6_Fragment"
+        android:name="com.example.phones.fragments.android_6_Fragment"
+        android:label="fragment_android_6_"
+        tools:layout="@layout/fragment_android_6_" >
+        <action
+            android:id="@+id/action_android_6_Fragment_to_android_7_Fragment"
+            app:destination="@id/android_7_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/android_7_Fragment"
+        android:name="com.example.phones.fragments.android_7_Fragment"
+        android:label="fragment_android_7_"
+        tools:layout="@layout/fragment_android_7_" >
+        <action
+            android:id="@+id/action_android_7_Fragment_to_android_5_Fragment"
+            app:destination="@id/android_5_Fragment" />
+    </fragment>
+</navigation>

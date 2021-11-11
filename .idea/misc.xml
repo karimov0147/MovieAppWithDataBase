@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/drawable/edit_text_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/drawable/item_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout-v28/linear_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/fragment_android_10_.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/fragment_android_5_.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/fragment_android_6_.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/fragment_android_7_.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/fragment_android_8_.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/fragment_android_9_.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/grid_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/phones/app/src/main/res/layout/linear_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
